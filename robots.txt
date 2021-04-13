@@ -2,5 +2,5 @@ I really like robots! Maybe my next project will be a robot... I'll jot some ide
 BAYMAX!
 Ironman suit: https://www.tiktok.com/@bradensmith02 (so cool!)
 wow i just rly like robots from movies huh, no original ideas :'(
-IOT PROJECT 2 IDEA: Use maker event "tweet" so that my toaster can POST to twitter on my secret account when it is ready in the morning. That way I'll know when to get off Twitter and eat my breakfast!
-    TODO: setup IFTTT
+
+oh wait that was super easy to setup my second project... value1=normal text, value2=hashtag
